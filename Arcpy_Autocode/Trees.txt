@@ -1,0 +1,5 @@
+x	y	Name
+3514582	5455596	 Eiche (oak tree)
+3514603	5455611	Linde (linden tree)
+3514623	5455623	 Esche (ash tree)
+3514653	5455642	Eiche (oak tree)
